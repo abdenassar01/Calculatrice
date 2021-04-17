@@ -1,0 +1,10 @@
+D:\MY PROGRAMMES\VB\WINDOWS FORMS\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+D:\MY PROGRAMMES\VB\WINDOWS FORMS\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+D:\MY PROGRAMMES\VB\WINDOWS FORMS\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+D:\MY PROGRAMMES\VB\WINDOWS FORMS\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+D:\MY PROGRAMMES\VB\WINDOWS FORMS\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+D:\MY PROGRAMMES\VB\WINDOWS FORMS\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+D:\MY PROGRAMMES\VB\WINDOWS FORMS\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+D:\MY PROGRAMMES\VB\WINDOWS FORMS\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+D:\MY PROGRAMMES\VB\WINDOWS FORMS\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+D:\MY PROGRAMMES\VB\WINDOWS FORMS\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
